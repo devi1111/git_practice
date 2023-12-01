@@ -1,0 +1,7 @@
+usname:admin
+pwd:1234
+full name:devi
+
+
+
+https://github.com/intelliqittrainings/maven.git
